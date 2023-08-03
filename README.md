@@ -19,4 +19,4 @@ implement the naïve birthday attack of reduced SM3
 |-------|-----------|--------|----------------------------|
 | Cpp   | Windows10 | pycharm| Intel(R) Core(TM)i7-11800H |
 # 小组分工
-戴方奇 202100460092 单人组完成project12
+戴方奇 202100460092 单人组完成project1
