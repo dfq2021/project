@@ -13,3 +13,10 @@ implement the naïve birthday attack of reduced SM3
 # 实验结果
 如图所示，实验用时100.61658000946045 s，
 ![VSBK `AE74H(%BU2H}@T8K2](https://github.com/jlwdfq/project/assets/129512207/ef510f60-72fa-4ff7-bc5e-0fa60c82a25e)
+
+# 实验环境
+| 语言  | 系统      | 平台   | 处理器                     |
+|-------|-----------|--------|----------------------------|
+| Cpp   | Windows10 | pycharm| Intel(R) Core(TM)i7-11800H |
+# 小组分工
+戴方奇 202100460092 单人组完成project12
